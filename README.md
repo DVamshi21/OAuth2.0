@@ -46,7 +46,7 @@ Store secrets securely.
 
 Validate scopes, claims, and user permissions.
 
-10. (Optional) Integrate Resource Server
+10. Integrate Resource Server
 Set up another Spring Boot app as a Resource Server.
 
 Validate access tokens issued by your Authorization Server.
